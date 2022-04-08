@@ -1,2 +1,2 @@
-# Machine-Learning
-my projects and all the stuffs 
+# Machine-Learning HW2
+
